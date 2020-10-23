@@ -6,4 +6,3 @@
 ![Underconstruction](/Under_Construction_Bar.gif)
 ![Underconstruction2](/construction.gif)
 ![Underconstruction3](/underconstruction.gif)
-![Underconstruction4](/Flashing_sign_4.gif)
