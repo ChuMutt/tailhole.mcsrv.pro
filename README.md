@@ -3,5 +3,5 @@
 
 [a guide on how to install minecraft maps/worlds can be found here](https://www.lifewire.com/download-and-install-minecraft-maps-4163870)
 
-![Underconstruction](Under_Construction_Bar.gif)
-![Underconstruction2](construction.gif)
+![Underconstruction](/Under_Construction_Bar.gif)
+![Underconstruction2](/construction.gif)
